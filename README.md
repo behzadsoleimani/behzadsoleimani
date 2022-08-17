@@ -186,10 +186,6 @@ You can click the Preview link to take a look at your changes.
 <hr /> 
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=behzadsoleimani&show_icons=true&theme=tokyonight&hide_border=true" width="415">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=behzadsoleimani&theme=tokyonight&hide_border=true" width="415">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=behzadsoleimani&theme=tokyonight&hide_border=true&layout=compact" width="415">
-  <!--   
-   <img src="https://github-readme-stats.vercel.app/api/pin/?username=behzadsoleimani&repo=Cryptocurrency-Exchange&theme=tokyonight&hide_border=true" width="415">
-   -->
+
 </p>
