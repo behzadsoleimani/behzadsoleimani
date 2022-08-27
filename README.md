@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @behzadsoleimani
-- 👀 I'm a Fullstack developer interested in new technologies and learning them. I'm currently working with Node.js, React.js, Redux, MongoDB, and MySQL. Also, I'm familiar with PHP and React Native. I've been working on enterprise projects and collaborated with various technical teams.
+- 👀 I'm a Front-End developer interested in new technologies and learning them. I'm currently working with React.js, Typescript, Redux, Node.js, and MongoDB. Also, I'm familiar with Next.js and React Native. I've been working on enterprise projects and collaborated with various technical teams.
 - 🌱 I’m currently learning solidity & hardhat.
 
 <!---
