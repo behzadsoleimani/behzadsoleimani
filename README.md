@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @behzadsoleimani
-- 👀 I'm a Front-End developer interested in new technologies and learning them. I'm currently working with React.js, Typescript, Redux, Node.js, and MongoDB. Also, I'm familiar with Next.js and React Native. I've been working on enterprise projects and collaborated with various technical teams.
-- 🌱 I’m currently learning solidity & hardhat.
+👋 Hi there! I'm @behzadsoleimani, a passionate Front-End developer with a keen interest in exploring and leveraging new technologies. With a strong foundation in JavaScript and TypeScript, I specialize in building interactive web applications using frameworks like React.js and Next.js.
+
+🚀 In my journey as a developer, I've had the opportunity to work on enterprise projects, collaborating closely with diverse technical teams to deliver robust solutions. Whether it's tackling complex state management, optimizing performance with module bundlers, or diving into the world of server-side JavaScript with Node.js, I thrive on pushing the boundaries of what's possible in web development.
 
 <!---
 behzadsoleimani/behzadsoleimani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
